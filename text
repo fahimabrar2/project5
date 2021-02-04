@@ -1,0 +1,51 @@
+ layout== a structure of a website.
+
+ float,
+ flex,(bootstrap)
+ grid,(bootstrap)
+
+ float
+     overflow,
+     floating,
+     wrapper,
+     clearfix,
+
+margin
+padding
+box model
+
+
+DRAFT
+website 
+{
+	header
+	{
+	logo
+	menu bar
+	}
+	slider
+	{photo sliding automatically}
+	/
+	banner{ aphoto with caption }
+	}
+
+
+	types(2 tyes){
+
+	1page website/
+	***landing page website/
+	sales page
+	{ //contain only one page with different sections (about us, service, contact us etc)
+
+	inner page{
+	if landing page contain 2 pages than the second page will be called inner page.
+	}
+    different sections connect with different elements of menus.
+	}  
+
+	multiple page website{
+
+	}
+	}
+
+} 
